@@ -5,11 +5,11 @@
 
 Repositorio dedicado a la **exploración y demostración de técnicas estadísticas avanzadas en R**, incluyendo:
 
-- **Visualización de datos** estática y animada  
-- **Animaciones en R** con `gganimate` y `gifski`  
-- **Mapas dinámicos y análisis espacial**  
-- **Modelos estadísticos y simulaciones**  
-- **Demostraciones de Machine Learning** (clustering, clasificación, descenso del gradiente)
+- **Visualización de datos** estática y animada.  
+- **Animaciones en R** con `gganimate` y `gifski`.  
+- **Mapas dinámicos y análisis espacial**.  
+- **Modelos estadísticos y simulaciones**.  
+- **Demostraciones de Machine Learning** (clustering, clasificación, descenso del gradiente).
 
 Este repositorio es ideal como **portafolio profesional** o recurso educativo para aprender cómo combinar análisis estadístico y visualización avanzada en R.
 
@@ -19,51 +19,11 @@ Este repositorio es ideal como **portafolio profesional** o recurso educativo pa
 
 | Carpeta / Archivo         | Descripción                                                                 |
 |---------------------------|-----------------------------------------------------------------------------|
-| `scripts/`               | Scripts R individuales por cada gráfico o animación                        |
-| `gifs/`                  | Animaciones generadas en formato GIF                                        |
-| `data/`                  | Datasets utilizados en las demostraciones                                   |
-| `README.md`              | Este archivo                                                                 |
-| `requirements.R`         | Lista de paquetes necesarios para ejecutar todos los scripts               |
-
----
-# Análisis Estadístico en R
-
-**Autor:** Gladys Choque Ulloa, PhD(c)  
-**Contacto / Portfolio:** [LinkedIn](https://www.linkedin.com/in/gladys-choque/)  
-
-Repositorio dedicado a la **exploración y demostración de técnicas estadísticas avanzadas en R**, incluyendo:
-
-- **Visualización de datos** estática y animada  
-- **Animaciones en R** con `gganimate` y `gifski`  
-- **Mapas dinámicos y análisis espacial**  
-- **Modelos estadísticos y simulaciones**  
-- **Demostraciones de Machine Learning** (clustering, clasificación, descenso del gradiente)
-
-Este repositorio es ideal como **portafolio profesional** o recurso educativo para aprender cómo combinar análisis estadístico y visualización avanzada en R.
-
----
-
-## 🔹 Contenido del repositorio
-
-| Carpeta / Archivo         | Descripción                                                                 |
-|---------------------------|-----------------------------------------------------------------------------|
-| `scripts/`               | Scripts R individuales por cada gráfico o animación                        |
-| `gifs/`                  | Animaciones generadas en formato GIF                                        |
-| `data/`                  | Datasets utilizados en las demostraciones                                   |
-| `README.md`              | Este archivo                                                                 |
-| `requirements.R`         | Lista de paquetes necesarios para ejecutar todos los scripts               |
-
----
-
-## 🔹 Ejemplos de visualizaciones y animaciones
-
-- **Bubble Chart Animado (Gapminder):** Relación entre PIB per cápita y esperanza de vida, con tamaño de burbujas representando población.  
-- **Heatmaps Dinámicos:** Mapas de calor animados mostrando patrones espaciales variables en el tiempo.  
-- **Evolución de K-means:** Visualización animada de cómo se ajustan los centroides de un clustering K-means iterativo.  
-- **Densidad 2D Dinámica:** Evolución de la densidad de puntos en un espacio 2D con colores y contornos animados.  
-- **Frontera de Decisión Dinámica:** Simulación de cómo cambian las fronteras de decisión de un clasificador no lineal en el tiempo.  
-- **Descenso del Gradiente:** Animación de un algoritmo de optimización mostrando cómo converge a mínimos en una función de pérdida.  
-- **Mapa Global Animado:** Visualización espacial de valores dinámicos por país usando mapas mundiales y burbujas de intensidad.
+| `scripts/`               | Scripts R individuales por cada gráfico o animación.                        |
+| `gifs/`                  | Animaciones generadas en formato GIF.                                       |
+| `data/`                  | Datasets utilizados en las demostraciones.                                   |
+| `README.md`              | Este archivo.                                                                 |
+| `requirements.R`         | Lista de paquetes necesarios para ejecutar todos los scripts.               |
 
 ---
 
